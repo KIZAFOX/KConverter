@@ -18,5 +18,6 @@ public class Main {
 
     public static void main(String... args){
         System.out.println("Decimal of 11111111 is: " + Binary.getDecimal(11111111));
+        System.out.println("Binary of 255 is: " + Binary.getBinary(255));
     }
 }

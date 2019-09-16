@@ -1,5 +1,7 @@
 package fr.kizafox.binaryconverter;
 
+import java.util.Objects;
+
 /**
  * --
  * Le projet a été crée par KIZAFOX. (workspace)
@@ -32,6 +34,17 @@ public class Binary {
             }
         }
         return decimal;
+    }
+
+    static int getBinary(int decimal){
+        StringBuilder stringBuilder = new StringBuilder();
+        int base = 2;
+        while (decimal != 0){
+            int reminder = decimal%base;
+            stringBuilder.append(reminder);
+            decimal = decimal/base;
+        }
+        return Integer.parseInt(stringBuilder.reverse().toString());
     }
 
 }
