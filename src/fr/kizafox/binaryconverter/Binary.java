@@ -18,6 +18,8 @@ import java.util.Objects;
 
 public class Binary {
 
+    /**/
+
     static int getDecimal(int binary){
         int decimal = 0;
         int n = 0;
