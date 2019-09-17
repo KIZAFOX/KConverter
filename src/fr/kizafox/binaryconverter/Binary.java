@@ -47,4 +47,16 @@ public class Binary {
         return Integer.parseInt(stringBuilder.reverse().toString());
     }
 
+    static int getHexadecimal(String hexadecimal){
+        String digits = "0123456789ABCDEF";
+        hexadecimal = hexadecimal.toUpperCase();
+        int val = 0;
+        for(int i = 0; i < hexadecimal.length(); i++){
+            char c = hexadecimal.charAt(i);
+            int d = digits.indexOf(c);
+            val = 16*val+d;
+        }
+        return val;
+    }
+
 }
