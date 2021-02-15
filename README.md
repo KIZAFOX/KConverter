@@ -8,8 +8,8 @@ Don't forget to check the latest version of KConverter [here](https://github.com
 
 KConverter Version | Support
 -------------------|--------
-1.0                |   ✅
-1.5                |   ❌
+1.0                |   ❌
+1.5                |   ✅
 
 ### Summary 
 
