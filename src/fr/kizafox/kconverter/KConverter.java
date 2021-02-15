@@ -1,4 +1,4 @@
-package fr.kizafox.binaryconverter;
+package fr.kizafox.kconverter;
 
 /**
  * --
