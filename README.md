@@ -1,4 +1,5 @@
 # Status
+[![Jitpack.oi](https://jitpack.io/v/KIZAFOX/KConverter.svg)](https://jitpack.io/#KIZAFOX/KConverter)
 [![version](https://img.shields.io/badge/version-%5B1.5%5D-red)](https://github.com/KIZAFOX/KConverter/releases)
 [![license](https://img.shields.io/github/license/KIZAFOX/KConverter)](https://github.com/KIZAFOX/KConverter/blob/master/LICENSE)
 
