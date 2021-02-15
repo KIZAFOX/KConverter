@@ -63,9 +63,9 @@ KConverter Version | Support
 ```xml
 <dependencies>
     <dependency>
-        <groupId>fr.kizafox</groupId>
+        <groupId>com.github.KIZAFOX</groupId>
         <artifactId>KConverter</artifactId>
-        <version>1.5</version>
+        <version>VERSION</version>
         <scope>compile</scope>
     </dependency>
 </dependencies>
@@ -81,7 +81,7 @@ repositories {
 
 ```xml
 dependencies {
-    compile 'fr.kizafox:KConverter:1.5'
+    implementation 'com.github.KIZAFOX:KConverter:VERSION'
 }
 ```
 
