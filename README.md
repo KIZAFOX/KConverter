@@ -3,7 +3,13 @@
 [![license](https://img.shields.io/github/license/KIZAFOX/KConverter)](https://github.com/KIZAFOX/KConverter/blob/master/LICENSE)
 
 # KConverter
-Converter is an API which allows you to convert from a binary number to a decimal number and vice versa or even to convert a hexadecimal into a decimal number or vice versa. (Soon will be added the possibility of converting a binary number into hexadecimal) =D
+Converter is an API which allows you to convert from a binary number to a decimal number and vice versa or even to convert a hexadecimal into a decimal number or vice versa.
+Don't forget to check the latest version of KConverter [here](https://github.com/KIZAFOX/KConverter/releases) !
+
+KConverter Version | Support
+-------------------|--------
+1.0                |   ✅
+1.5                |   ❌
 
 ### Summary 
 
@@ -89,7 +95,3 @@ Just copy `KConverter.java` in your project
 # License
 
 Distributed under the MIT License. See [License](https://github.com/KIZAFOX/KConverter/blob/master/LICENSE) for more information.
-
-# Other
-
-Don't forget to check the latest version of KConverter [here](https://github.com/KIZAFOX/KConverter/releases)
